@@ -13,3 +13,5 @@ projet-intelligent-Maxence-schroeder01 created by GitHub Classroom
 . https://www.youtube.com/watch?v=63zWZ2rJZ68&t=560s ... https://learn.unity.com/project/beginner-ai-pathfinding
 
 . https://docs.unity3d.com/Manual/Navigation.html ... https://assetstore.unity.com/packages/tools/ai/simple-grid-pathfinding-194954
+
+## 🗒️ Mes trois documents pour appronfondir mes sujets choisie
