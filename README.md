@@ -14,4 +14,14 @@ projet-intelligent-Maxence-schroeder01 created by GitHub Classroom
 
 . https://docs.unity3d.com/Manual/Navigation.html ... https://assetstore.unity.com/packages/tools/ai/simple-grid-pathfinding-194954
 
-## 🗒️ Mes trois documents pour appronfondir mes sujets choisie
+## 🗂️ Mes trois documents pour appronfondir mes sujets choisie
+
+Projet 1 https://docs.google.com/document/d/1m_TRxBE5P3hEUOE-4c8dNdZUb6LR9LGdzW-1yNyOuAE/edit?usp=sharing
+
+Projet 2 https://docs.google.com/document/d/1mrQtpzT2UN5CuxIel_zTkDAkxJ6-LgZ7p6ORR1hHGDA/edit?usp=sharing
+
+Projet 3 https://docs.google.com/document/d/1zHwVo4VjuOXUDLCdlnqIh96K4wno31iedP5PD1PtPlE/edit?usp=sharing
+
+## 📃 Le document pour appronfondir mon sujets choisie
+
+Descriptif de mon projet https://docs.google.com/document/d/1CiE9vfabEtn-kGnnjD-V47a3OyWUTn8kxgYIhaoiPx4/edit?usp=sharing
