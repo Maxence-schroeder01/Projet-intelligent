@@ -3,7 +3,12 @@ projet-intelligent-Maxence-schroeder01 created by GitHub Classroom
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `= ce que je vais etudier `
 
+
 ## 🗒️ Ma liste de 10 exemple 
+
+https://docs.google.com/document/d/1RHYbX_HrxMJfizATEXetCa52n-gS4QU1CUpwLG2YB8I/edit?usp=sharing
+
+
 . https://www.youtube.com/watch?v=qOQVxPQ-C5Y ... ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `https://www.youtube.com/watch?v=atCOd4o7tG4`
 
 . ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `https://github.com/cegepmatane/gamejam-Maxence-schroeder01` ... https://www.youtube.com/watch?v=alU04hvz6L4&t=304s
