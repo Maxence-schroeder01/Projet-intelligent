@@ -3,6 +3,7 @@ projet-intelligent-Maxence-schroeder01 created by GitHub Classroom
 
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `= ce que je vais etudier `
 
+finie le 28 novembre 2021
 
 ## 🗒️ Ma liste de 10 exemple 
 
