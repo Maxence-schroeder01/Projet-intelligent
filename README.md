@@ -31,3 +31,7 @@ Projet 3 https://docs.google.com/document/d/1zHwVo4VjuOXUDLCdlnqIh96K4wno31iedP5
 ## 📃 Le document pour appronfondir mon sujets choisie
 
 Descriptif de mon projet https://docs.google.com/document/d/1CiE9vfabEtn-kGnnjD-V47a3OyWUTn8kxgYIhaoiPx4/edit?usp=sharing
+
+
+
+TOUT LES DOCS SONT REMPLITE IMPORTATION DU CODE LA SEMAINE DU 6 DECEMBRE 
