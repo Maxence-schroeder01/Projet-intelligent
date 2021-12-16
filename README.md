@@ -47,13 +47,11 @@ Descriptif de mon projet https://docs.google.com/document/d/1CiE9vfabEtn-kGnnjD-
 
 ```python -m pip install mlagents==0.27.0```
 
-# recuperer le git release8 du github de ml-agents, faire cd dans le git et installer les deux folder ml-agents 
+## recuperer le git release8 du github de ml-agents, faire cd dans le git et installer les deux folder ml-agents 
 
-```git clone --branch release_18 https://github.com/Unity-Technologies/ml-agents.git
-pip3 install -e ./ml-agents-envs
-pip3 install -e ./ml-agents
-```
-
+```git clone --branch release_18 https://github.com/Unity-Technologies/ml-agents.git```
+```pip3 install -e ./ml-agents-envs```
+```pip3 install -e ./ml-agents```
 
 
 # TOUT LES DOCS SONT REMPLITE IMPORTATION DU CODE LA SEMAINE DU 16 DECEMBRE 
