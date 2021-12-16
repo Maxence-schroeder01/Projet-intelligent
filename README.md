@@ -41,6 +41,7 @@ Descriptif de mon projet https://docs.google.com/document/d/1CiE9vfabEtn-kGnnjD-
 ## Installer pip et installer pytorch
 
 ```python install pip```
+
 ```pip3 install torch~=1.7.1 -f https://download.pytorch.org/whl/torch_stable.html```
 
 ## Installer ml-agents
@@ -50,7 +51,9 @@ Descriptif de mon projet https://docs.google.com/document/d/1CiE9vfabEtn-kGnnjD-
 ## recuperer le git release8 du github de ml-agents, faire cd dans le git et installer les deux folder ml-agents 
 
 ```git clone --branch release_18 https://github.com/Unity-Technologies/ml-agents.git```
+
 ```pip3 install -e ./ml-agents-envs```
+
 ```pip3 install -e ./ml-agents```
 
 
