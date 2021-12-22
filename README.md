@@ -28,6 +28,14 @@ Projet 3 https://docs.google.com/document/d/1zHwVo4VjuOXUDLCdlnqIh96K4wno31iedP5
 
 Descriptif de mon projet https://docs.google.com/document/d/1CiE9vfabEtn-kGnnjD-V47a3OyWUTn8kxgYIhaoiPx4/edit?usp=sharing
 
+## 📃 Fiche Apprentisage 
+
+Url: https://docs.google.com/document/d/1v3TWaudB6X_8uecGSG53j97pJJ4PFR3OpSd57ADRaeU/edit?usp=sharing
+
+## 📃 Fiche Test
+
+URL: https://docs.google.com/document/d/1D0MwllnwVpCXNTOjvqV4YocFVMBle5aXtnPRKjEMKhU/edit?usp=sharing
+
 # Comment utiliser mon projet !!
 
 ## Installer python 3.7.3 et ajouter un environement virtuel sur votre folder du projet unity
